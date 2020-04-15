@@ -15,6 +15,9 @@ For every hashtag in the hashtag list, it will open the page and click the first
 It will then like, follow, comment and move to the next picture, in a 200 iterations loop (number can be adjusted)
 Saves a list with all the users you followed using the bot
 
+#NOTE:
+According to Instagram, you can only like 60 photos in an hour. You can also leave 60 comments on photos or videos. You can have 60 relationships per hour – so that’s a total of follow and unfollow actions combined.
+
 ### Installation
 
 Instagram Post Downloader requires [Chrome WebDriver](https://chromedriver.chromium.org/)  to run.
